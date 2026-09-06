@@ -1,0 +1,48 @@
+﻿Nombre,Latitud,Longitud,Municipio,Tipo,Area_Ha,Descripcion,pendiente_pct,dist_autopista_km,autopista_cercana,cobertura_pct,poblacion_30km,desv_centroide_km,concentracion_30km_pct,dist_nucleo_km,nucleo_cercano,dist_competencia_km,estacion_cercana,subst_dist_m
+Poligono_Nave_industrial_051,36.910191,-5.968095,Sevilla,nave_industrial,0.72,OSM: nave_industrial | 0.7 ha | Sevilla,1.67,0.21,53,58.1,310363,20.85,11.3,29.5,Jerez de la Frontera,40.22,Amazon El Puerto de Santa María (Cádiz),4485
+Poligono_Nave_industrial_017,36.946944,-6.097069,Sevilla,nave_industrial,1.36,OSM: nave_industrial | 1.4 ha | Sevilla,1.33,11.97,53,57.5,362212,19.16,12.8,29.67,Jerez de la Frontera,39.03,Amazon El Puerto de Santa María (Cádiz),2251
+Poligono_Industrial_076,37.116156,-6.013154,Sevilla,industrial,11.45,OSM: industrial | 11.4 ha | Sevilla,1.0,10.35,24,53.6,754987,11.79,34.2,30.17,Dos Hermanas,26.17,Amazon DSP Sevilla,5270
+Parque Solar El Rocío I - Fotoisla 10,37.150579,-6.503947,Huelva,industrial,10.4,OSM: industrial | 10.4 ha | Huelva,2.0,0.94,25,53.2,113477,31.59,4.3,41.6,Huelva,51.4,Amazon DSP Sevilla,1030
+Polígono Industrial de Almodaine,37.1756,-5.927058,Sevilla,industrial,10.03,OSM: industrial | 10.0 ha | Sevilla,1.67,0.53,565,51.0,1352320,10.71,64.6,23.88,Dos Hermanas,19.95,Amazon DSP Sevilla,1222
+Poligono_Industrial_043,37.174278,-5.795295,Sevilla,industrial,18.74,OSM: industrial | 18.7 ha | Sevilla,2.33,4.44,nodo_1713120889,50.3,1091443,16.49,52.4,28.68,Dos Hermanas,24.81,SEUR Hub Sevilla,1012
+Polígono Industrial Torrealcázar,37.309109,-6.240701,Sevilla,industrial,20.44,OSM: industrial | 20.4 ha | Sevilla,2.33,6.37,23,49.4,1195006,11.99,59.2,24.48,Sevilla,23.49,Amazon DSP Sevilla,6182
+Poligono_Nave_industrial_070,37.304813,-6.374002,Huelva,nave_industrial,0.58,OSM: nave_industrial | 0.6 ha | Huelva,2.67,5.56,34,48.9,412470,20.96,19.7,35.85,Sevilla,35.2,Amazon DSP Sevilla,4109
+Parque de Innovación Empresarial Soland,37.399914,-6.248765,Sevilla,industrial,29.39,OSM: industrial | 29.4 ha | Sevilla,0.67,4.53,23,47.8,1168911,13.93,59.8,23.58,Sevilla,24.39,Amazon DSP Sevilla,3493
+Exolum Arahal II,37.239297,-5.60059,Sevilla,industrial,13.38,OSM: industrial | 13.4 ha | Sevilla,2.0,2.15,nodo_249568050,47.3,407521,26.29,18.4,37.32,Dos Hermanas,32.56,SEUR Hub Sevilla,185
+Amazon SVQ1,37.271283,-5.989964,Dos Hermanas,industrial,16.49,OSM: industrial | 16.5 ha | Sevilla,1.0,1.24,553,46.9,1483733,5.38,76.3,12.81,Dos Hermanas,8.8,Amazon DSP Sevilla,137
+Poligono_Industrial_009,37.241383,-5.880567,Sevilla,industrial,58.44,OSM: industrial | 58.4 ha | Sevilla,1.67,2.68,15,46.6,1451318,10.67,75.3,18.35,Dos Hermanas,14.94,Amazon DSP Sevilla,1684
+Poligono_Industrial_090,37.267645,-5.503771,Sevilla,industrial,10.05,OSM: industrial | 10.1 ha | Sevilla,2.67,0.26,nodo_356493216,46.2,226415,32.62,10.1,44.12,Dos Hermanas,39.37,SEUR Hub Sevilla,3371
+Poligono_Industrial_022,37.341878,-5.436097,Sevilla,industrial,30.47,OSM: industrial | 30.5 ha | Sevilla,0.67,7.36,49A,45.9,170514,34.16,7.7,48.32,Dos Hermanas,43.77,SEUR Hub Sevilla,1975
+Polígono Industrial El Lirio,37.352902,-6.54173,Huelva,industrial,25.06,OSM: industrial | 25.1 ha | Huelva,2.0,0.71,50,45.9,160460,31.47,7.0,37.77,Huelva,49.65,Amazon DSP Sevilla,2938
+Polígono Industrial Gandul,37.361023,-5.757277,Sevilla,industrial,45.27,OSM: industrial | 45.3 ha | Sevilla,3.0,5.19,nodo_249567328,45.6,1451970,13.41,76.3,19.88,Dos Hermanas,15.3,SEUR Hub Sevilla,2370
+Polígono Industrial La Red Sur,37.371523,-5.88766,Sevilla,industrial,86.13,OSM: industrial | 86.1 ha | Sevilla,1.67,0.62,5,45.3,1544511,5.34,81.9,8.32,Dos Hermanas,3.75,SEUR Hub Sevilla,1054
+Zona de actividades logísticas Batán,37.351423,-5.9988,Sevilla,industrial,30.88,OSM: industrial | 30.9 ha | Sevilla,1.0,0.76,12,45.2,1533629,2.91,81.5,4.21,Dos Hermanas,1.67,Amazon DSP Sevilla,1573
+Parque logístico de Carmona,37.441104,-5.780591,Sevilla,industrial,56.3,OSM: industrial | 56.3 ha | Sevilla,2.0,0.56,521,44.9,1389987,14.3,74.8,18.64,Dos Hermanas,15.38,SEUR Hub Sevilla,1922
+Parque Empresarial PIBO,37.355069,-6.143043,Sevilla,industrial,56.27,OSM: industrial | 56.3 ha | Sevilla,2.33,0.49,11,44.8,1431312,11.92,77.4,14.67,Sevilla,14.42,Amazon DSP Sevilla,211
+Polígono Industrial El Cáñamo II,37.4865,-5.928941,Sevilla,industrial,27.47,OSM: industrial | 27.5 ha | Sevilla,0.67,4.94,nodo_1064874500,44.6,1473729,13.21,80.0,11.9,Sevilla,12.95,SEUR Hub Sevilla,1119
+Polígono Industrial Navisur,37.427946,-6.040145,Sevilla,industrial,11.03,OSM: industrial | 11.0 ha | Sevilla,3.0,0.84,808,44.6,1456778,9.31,79.2,6.76,Sevilla,10.17,Amazon DSP Sevilla,147
+Poligono_Industrial_061,37.588488,-5.749834,Sevilla,industrial,13.23,OSM: industrial | 13.2 ha | Sevilla,1.0,13.67,514,43.5,722939,26.36,35.8,30.28,Sevilla,29.03,SEUR Hub Sevilla,3457
+Poligono_Nave_industrial_074,37.537237,-6.034324,Sevilla,nave_industrial,0.55,OSM: nave_industrial | 0.6 ha | Sevilla,2.0,4.33,798,43.5,1364534,17.88,76.7,17.2,Sevilla,20.75,SEUR Hub Sevilla,3040
+Poligono_Industrial_015,37.498208,-6.231308,Sevilla,industrial,41.45,OSM: industrial | 41.5 ha | Sevilla,3.0,12.7,795,43.4,1040690,22.02,58.1,25.16,Sevilla,27.64,Amazon DSP Sevilla,1238
+Polígono Industrial Los Bermejales,37.351348,-6.678483,Huelva,industrial,23.95,OSM: industrial | 23.9 ha | Huelva,2.0,0.98,60,36.2,323736,34.75,19.9,26.26,Huelva,61.74,Amazon DSP Sevilla,1013
+Parque Tecnológico Agroindustrial de Jerez,36.73116,-6.08701,Cádiz,industrial,29.37,OSM: industrial | 29.4 ha | Cádiz,1.33,0.34,631,26.9,643417,0.64,51.5,7.05,Jerez de la Frontera,17.95,Amazon El Puerto de Santa María (Cádiz),348
+Poligono_Industrial_001,36.660897,-5.839486,Cádiz,industrial,386.65,OSM: industrial | 386.6 ha | Cádiz,1.0,9.5,20,26.2,327623,17.67,26.4,26.64,Jerez de la Frontera,34.42,Amazon El Puerto de Santa María (Cádiz),1296
+Polígono Industrial El Portal,36.656878,-6.130845,Cádiz,industrial,174.65,OSM: industrial | 174.7 ha | Cádiz,3.0,2.58,641,22.9,788907,2.86,74.8,2.85,Jerez de la Frontera,9.51,Amazon El Puerto de Santa María (Cádiz),1201
+Poligono_Almacen_003,36.533199,-6.128425,Cádiz,almacen,0.78,OSM: almacen | 0.8 ha | Cádiz,2.67,3.14,101,21.7,708960,5.84,73.0,14.33,Cádiz,11.82,Amazon El Puerto de Santa María (Cádiz),2107
+Polígono Industrial El Palmar,36.616614,-6.206785,Cádiz,industrial,33.94,OSM: industrial | 33.9 ha | Cádiz,1.33,0.55,nodo_960792737,21.0,762919,5.49,79.7,9.57,Jerez de la Frontera,1.39,Amazon El Puerto de Santa María (Cádiz),374
+Polígono Industrial de Fadricas,36.473545,-6.204837,Cádiz,industrial,15.96,OSM: industrial | 16.0 ha | Cádiz,1.33,2.12,7,20.8,689448,12.9,74.4,9.56,Cádiz,15.23,Amazon El Puerto de Santa María (Cádiz),710
+Supply Bldg 55,36.640179,-6.353352,Cádiz,nave_industrial,0.62,OSM: nave_industrial | 0.6 ha | Cádiz,2.67,11.52,9,20.5,649221,17.78,69.7,13.85,Cádiz,12.36,Amazon El Puerto de Santa María (Cádiz),1530
+Polígono Industrial La Campiña,37.530003,-5.121207,Sevilla,industrial,64.73,OSM: industrial | 64.7 ha | Sevilla,2.0,0.55,457,20.2,132114,15.8,13.0,49.91,Córdoba,42.88,Correos Express Hub Córdoba,3730
+Polígono Industrial Las Lagunillas,37.66278,-4.927576,Córdoba,industrial,16.38,OSM: industrial | 16.4 ha | Córdoba,2.33,1.76,432,18.5,471153,8.62,58.2,28.25,Córdoba,20.77,Correos Express Hub Córdoba,1712
+Poligono_Industrial_071,37.456243,-4.701264,Córdoba,industrial,12.02,OSM: industrial | 12.0 ha | Córdoba,2.33,9.25,40,17.9,219411,23.99,24.7,48.52,Córdoba,41.37,Correos Express Hub Córdoba,174
+Poligono_Nave_industrial_062,37.6624,-4.721196,Córdoba,nave_industrial,0.62,OSM: nave_industrial | 0.6 ha | Córdoba,3.0,3.42,16,17.9,430348,4.93,55.4,25.62,Córdoba,18.84,Correos Express Hub Córdoba,6473
+Plastienvase,37.857182,-4.891653,Córdoba,nave_industrial,1.2,OSM: nave_industrial | 1.2 ha | Córdoba,2.0,7.97,3,17.6,387614,12.43,51.6,10.44,Córdoba,9.05,Correos Express Hub Córdoba,1970
+Polígono Industrial La Torrecilla,37.853292,-4.793338,Córdoba,industrial,65.85,OSM: industrial | 65.8 ha | Córdoba,2.33,1.31,3,17.1,388547,9.74,53.5,4.07,Córdoba,3.75,Correos Express Hub Córdoba,951
+Polígono Industrial Las Quemadas,37.904495,-4.717417,Córdoba,industrial,236.64,OSM: industrial | 236.6 ha | Córdoba,2.67,1.65,396,16.5,374803,14.01,53.6,5.73,Córdoba,11.87,Correos Express Hub Córdoba,1391
+Poligono_Nave_industrial_079,37.319066,-6.823348,Huelva,nave_industrial,0.52,OSM: nave_industrial | 0.5 ha | Huelva,2.33,1.38,75,14.2,349469,7.08,55.2,13.15,Huelva,74.64,Amazon DSP Sevilla,1996
+Puerto de Huelva,37.153753,-6.881165,Huelva,industrial,56.91,OSM: industrial | 56.9 ha | Huelva,2.0,7.52,nodo_9034942679,12.8,298780,10.83,52.9,13.5,Huelva,82.69,Amazon DSP Sevilla,3030
+Polígono Industrial La Vega,37.989479,-4.306874,Córdoba,industrial,24.76,OSM: industrial | 24.8 ha | Córdoba,0.33,0.36,350,12.2,42859,37.14,7.0,42.94,Córdoba,47.19,Correos Express Hub Córdoba,466
+Poligono_Nave_industrial_030,37.350755,-7.012339,Huelva,nave_industrial,1.04,OSM: nave_industrial | 1.0 ha | Huelva,2.67,1.69,94,11.4,329005,11.1,65.2,11.29,Huelva,91.25,Amazon DSP Sevilla,4788
+Polígono Industrial Francisco Montenegro,37.229327,-6.946866,Huelva,industrial,248.76,OSM: industrial | 248.8 ha | Huelva,2.33,1.75,18,11.2,326270,10.18,65.5,3.55,Huelva,86.58,Amazon DSP Sevilla,213
+Poligono_Nave_industrial_039,37.29302,-7.153468,Huelva,nave_industrial,0.89,OSM: nave_industrial | 0.9 ha | Huelva,1.67,4.31,105,10.3,340452,18.81,74.4,18.11,Huelva,103.96,Amazon DSP Sevilla,637
+Poligono_Nave_industrial_033,37.244798,-7.252443,Huelva,nave_industrial,0.99,OSM: nave_industrial | 1.0 ha | Huelva,3.0,3.12,117,9.6,291705,25.8,68.2,26.58,Huelva,113.16,Amazon DSP Sevilla,4033

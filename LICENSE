@@ -1,0 +1,55 @@
+MIT License
+
+Copyright (c) 2026
+José Luis Oliva Calvente, Miguel Sáez Baena, Juan José Molera Sánchez,
+Guilherme Lobo Martínez, Jaime Fernández-Figueroa Medina
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+ALCANCE DE ESTA LICENCIA
+================================================================================
+
+La licencia MIT anterior cubre EL CODIGO FUENTE de este repositorio
+(directorios src/ y legacy/).
+
+DOCUMENTACION Y FIGURAS
+  Las figuras de docs/assets/ se publican bajo Creative Commons
+  Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
+  MEMORIA:INICIO -- al publicar docs/memoria_proyecto.pdf, sustituir el parrafo
+  anterior por este otro y borrar estas dos lineas marcadoras:
+    La memoria del proyecto (docs/memoria_proyecto.pdf) y las figuras de
+    docs/assets/ se publican bajo Creative Commons Reconocimiento-NoComercial-
+    CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+    https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+  MEMORIA:FIN
+
+DATOS DE TERCEROS
+  Los datos derivados de OpenStreetMap (data/raw/, docs/mapas/) estan sujetos a
+  la Open Database License (ODbL) y requieren la atribucion
+  "(c) OpenStreetMap contributors". Vease data/README.md.
+  Los datos demograficos y de renta proceden del Instituto Nacional de
+  Estadistica (INE) y se rigen por sus propias condiciones de reutilizacion.
+
+CASO DE ESTUDIO
+  Las cifras operativas y economicas de partida proceden de un enunciado
+  academico de terceros que NO se redistribuye en este repositorio. Vease la
+  seccion "Contexto y limitaciones" del README.

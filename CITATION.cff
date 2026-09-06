@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Diseño y optimización de una red de reparto de última milla:
+  localización de centros, VRP y decisión multicriterio sobre datos abiertos
+message: Si utilizas este trabajo, por favor cítalo como se indica.
+type: software
+authors:
+  - family-names: Oliva Calvente
+    given-names: José Luis
+  - family-names: Sáez Baena
+    given-names: Miguel
+  - family-names: Molera Sánchez
+    given-names: Juan José
+  - family-names: Lobo Martínez
+    given-names: Guilherme
+  - family-names: Fernández-Figueroa Medina
+    given-names: Jaime
+abstract: >-
+  Pipeline reproducible en Python para el diseño de una red de distribución de
+  última milla sobre 657 secciones censales de Andalucía Occidental. Combina
+  simulación estocástica de demanda ponderada por indicadores socioeconómicos
+  del INE, generación y filtrado geoespacial de emplazamientos candidatos con
+  12 criterios técnicos, normativos y ambientales, cálculo de tiempos reales de
+  conducción con OSRM, resolución del problema de enrutamiento de vehículos
+  (VRP) mediante heurística greedy de vecino más cercano con asignación por
+  regret, y selección de la arquitectura de red óptima mediante análisis
+  multicriterio (MCDA). Desarrollado como proyecto del Máster en Ingeniería
+  Industrial de la Universidad de Sevilla, curso 2025-26.
+keywords:
+  - vehicle routing problem
+  - facility location
+  - last mile delivery
+  - logistics network design
+  - multi-criteria decision analysis
+  - operations research
+  - OpenStreetMap
+  - OSRM
+  - geospatial analysis
+  - Python
+license: MIT
+date-released: 2026-09-03

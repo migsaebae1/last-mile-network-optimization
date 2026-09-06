@@ -1,0 +1,18 @@
+# Pipeline principal (src/) — Python >= 3.11
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1          # lectura/escritura de .xlsx
+requests>=2.31
+tqdm>=4.66
+
+# Geoespacial
+osmnx>=1.9             # usa ox.features_from_place / features_from_point
+geopandas>=0.14
+shapely>=2.0
+
+# Visualizacion
+folium>=0.15
+matplotlib>=3.8
+
+# Solo para legacy/ (motor OR-Tools). Descomentar si se quiere ejecutar.
+# ortools>=9.8

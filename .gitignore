@@ -1,0 +1,69 @@
+# ============================================================
+# PYTHON
+# ============================================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# ============================================================
+# JUPYTER
+# ============================================================
+.ipynb_checkpoints/
+
+# ============================================================
+# EDITORES / SO
+# ============================================================
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# SALIDAS VOLATILES
+# ============================================================
+# outputs/ contiene resultados curados que SI se versionan.
+# Lo que se ignora son los intermedios del torneo, que pesan ~145 MB
+# y se regeneran ejecutando src/06_rutas_N_centros.py
+outputs/rutas_individuales_generadas/
+outputs/rutas_parejas_generadas/
+outputs/rutas_trios_generados/
+outputs/rutas_cuartetos_generados/
+outputs/rutas_quintetos_generados/
+outputs/rutas_octetos_generados/
+outputs/geojson/
+outputs/latex/
+outputs/html/
+# los mapas se publican desde docs/mapas/, no desde aqui
+outputs/mapas_ganadores/
+
+# Temporales de Excel
+~$*
+
+# ============================================================
+# DATOS PESADOS (redescargables — ver data/README.md)
+# ============================================================
+data/raw/*.zip
+data/raw/*.px
+data/raw/*.sql
+data/raw/*.xls
+# ============================================================
+# MEMORIA DEL PROYECTO — pendiente de decidir si se publica
+# ============================================================
+# Para publicarla: borra la linea de abajo y descomenta los bloques
+# marcados con MEMORIA:INICIO / MEMORIA:FIN (grep -rn "MEMORIA:" .)
+docs/memoria_proyecto.pdf
+
+# ============================================================
+# GUIA DE PUBLICACION — uso personal, no forma parte del proyecto
+# ============================================================
+PUBLICAR.md
