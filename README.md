@@ -284,10 +284,12 @@ de alta rotación.
 │   ├── 03_generador_candidatos.py          Prospección OSM → ~500 candidatos
 │   ├── 04_filtro_candidatos.py             12 filtros F1–F12 → 47 candidatos
 │   ├── 05_extraccion_tiempos_osrm.py       Matriz de tiempos reales (checkpoints resumibles)
-│   ├── 06_rutas_{1,2,3,4,5,8}_centros.py   Regret + VRP greedy por cada K
+│   ├── 06_rutas_1_centro.py                Regret + VRP greedy, un solo centro
+│   ├── 06_rutas_{2,3,4,5,8}_centros.py     Regret + VRP greedy por cada K
 │   ├── 06_rutas_svq1_dqa4.py               Caso de control: red actual
 │   ├── 07_seleccion_mejor_candidato.py     Torneo técnico: campeón por categoría
 │   ├── 08_comparacion_alternativas.py      KPIs unificados + MCDA final
+│   ├── 09_mapa_svq1_dqa4.py                Mapa Folium del caso de control
 │   ├── 09_mapear_ganadores.py              Mapas Folium por escenario
 │   └── 10_grafica_mcda_vs_k.py             Curva score MCDA vs. K
 ├── data/                   Datos de partida (ver data/README.md para fuentes y atribución)
@@ -305,7 +307,9 @@ de alta rotación.
 ```bash
 git clone https://github.com/migsaebae1/last-mile-network-optimization.git
 cd last-mile-network-optimization
-python -m venv .venv && .venv\Scripts\activate      # Windows
+python -m venv .venv
+source .venv/bin/activate      # macOS / Linux
+.venv\Scripts\activate         # Windows (PowerShell)
 pip install -r requirements.txt
 ```
 
@@ -325,7 +329,8 @@ tiempos, sin tocar APIs externas. Genera ~145 MB de intermedios (ignorados por g
 unos minutos:
 
 ```bash
-for k in 1 2 3 4 5 8; do python src/06_rutas_${k}_centros.py; done
+python src/06_rutas_1_centro.py
+for k in 2 3 4 5 8; do python src/06_rutas_${k}_centros.py; done
 python src/06_rutas_svq1_dqa4.py
 python src/07_seleccion_mejor_candidato.py  # requiere los intermedios del paso anterior
 python src/08_comparacion_alternativas.py
